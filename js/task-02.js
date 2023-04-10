@@ -18,12 +18,7 @@ const murkup = function (array) {
   });
 }(ingredients);
 
-// const murkup = ingredients.map(elem => {
-//   const liEl = document.createElement('li');
-//   liEl.textContent = elem;
-//   liEl.classList.add('item');
-//   return ingredientsEl.append(liEl)
-// });
+
 
 
 
